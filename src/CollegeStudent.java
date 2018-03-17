@@ -1,7 +1,7 @@
 /*
    ISYS 320
-   Name(s):
-   Date: 
+   Name: Mansour Albaibi
+   Date: 3/18/2018
 */
 
 public class CollegeStudent {
